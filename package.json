@@ -1,0 +1,11 @@
+{
+  "name": "telemetry",
+  "version": "1.0.0",
+  "description": "Projeto de ponta a ponta no telemetry",
+  "main": "index.js",
+  "author": "Gledson Nascimento",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
